@@ -1,12 +1,14 @@
-# React + Vite
+# Zentry Website - ReactJS & TailwindCSS & GSAP 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objective
+1. Handling different useHooks from ReactJS
+2. Understanding basic TailwindCSS
+3. Adding cool images, videos and audios for best UI experience
+4. Implementing stunning animations for each assets with GSAP
+5. Knowing how to use different and reusable ReactJS components
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Preview
+![Image](https://github.com/user-attachments/assets/37fb50e1-5e00-4697-afeb-7ca7c163c259)
+![Image](https://github.com/user-attachments/assets/a9aeaab4-09c4-4bcb-91d3-9589f54110e8)
+![Image](https://github.com/user-attachments/assets/3fa96356-4906-46c1-9fd1-33e2f1a2f7fe)
+![image](https://github.com/user-attachments/assets/2fa25c68-1e44-43c0-aed5-736f93f3f296)
